@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shinigami-chan AI client</string>
+    <string name="ACK">はい、ごしゅじんーさま</string>
+    <string name="here">どうぞ</string>
+    <string name="sorry">ごめなだい</string>
+    <string name="understood">わかりました、ごしゅじんーさま</string>
+    <string name="no_a_m">I do not know which anime you\'re talking about</string>
+    <string name="no_m">I do not know what you\'re talking about</string>
+    <string name="no_c_m">I do not know what waifu you\'re talking about</string>
+    <string name="no_prequel">This anime does not have a prequel</string>
+    <string name="no_sequel">This anime does not have a sequel</string>
+    <string name="made_reminder">I have made this reminder for you:</string>
+    <string name="made_timer">I have made this timer for you:</string>
+    <string name="ptw_added_1">I have added </string>
+    <string name="ptw_added_2"> to your watch list</string>
+    <string name="waifu_added_2"> to your waifu list</string>
+    <string name="force_refresh">I have synced your list early</string>
+    <string name="made_alarm">I have made an alarm for</string>
+    <string name="should_override_alarm">Should I override your regular alarm(s) on this day?</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="title_activity_fullscreen_video">fullscreen_video</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
